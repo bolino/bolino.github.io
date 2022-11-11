@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Juan Andrés Nin - Programmer and Game Designer</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Home on Juan Andrés Nin - Programmer and Game Designer</description>
+    <title>Juan Andrés Nin</title>
+    <link>http://www.nin.com.uy/</link>
+    <description>Recent content on Juan Andrés Nin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jan 2022 18:27:58 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.nin.com.uy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>http://www.nin.com.uy/about/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>I&amp;rsquo;m Juan Andrés Nin a game programmer and designer from Uruguay with 10 years of professional experience. Previously I worked at Ironhide Game Studio.
+      <guid>http://www.nin.com.uy/about/</guid>
+      <description>I&amp;rsquo;m Juan Andrés Nin a programmer and game designer from Uruguay with more than 10 years of professional experience.
+In 2021 I cofounded Tragico Media where we are currently working on our first game: a surrealist comedy point and click adventure.
+Previously I worked at Ironhide Game Studio.
 I have worked on the following games:
-  Junkworld
-Worked as lead programmer on multiple prototypes during preproduction and led a team of three programmers from this stage onto softlaunch
-  Kingdom Rush Vengeance
-Worked on a team of three programmers making a new engine using C++ and cocos2d-x.</description>
+Junkworld
+Worked as lead programmer on multiple prototypes during preproduction and led a team of three programmers from this stage onto softlaunch.</description>
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>https://example.com/posts/first-post/</link>
+      <title>First post</title>
+      <link>http://www.nin.com.uy/posts/first-post/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/first-post/</guid>
+      <guid>http://www.nin.com.uy/posts/first-post/</guid>
       <description>This is a first post on a blog which hopefully sees new content in the future.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.nin.com.uy/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.nin.com.uy/contact/</guid>
+      <description>You can find me on twitter or contact me by email.</description>
     </item>
     
   </channel>
